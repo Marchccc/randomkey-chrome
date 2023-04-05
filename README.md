@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Marchccc/randomkey-chrome/blob/main/icon128.png" width="75" height="75"/>
+  <img src="./icon128.png" width="75" height="75"/>
 </p>
 
 <h1 align="center">Randomkey</h1>
@@ -7,6 +7,10 @@
 *Randomkey is a web browser extension to help generates a random password and stores it in a table.*
 
 <a href="https://github.com/Marchccc/randomkey-chrome"><img width="300" alt="Chrome 插件截图" src="./screen.png" /></a>
+
+
+
+Note: The project code is generated from chatGPT. If anyone else uses this extension, I will optimize the code and add features.
 
 
 
