@@ -6,7 +6,8 @@
 
 *Randomkey is a web browser extension to help generates a random password and stores it in a table.*
 
-[![Randomkey](https://github.com/Marchccc/randomkey-chrome/blob/main/screen.png)](https://github.com/Marchccc/randomkey-chrome)
+<a href="https://github.com/Marchccc/randomkey-chrome"><img width="300" alt="Chrome 插件截图" src="./screen.png" /></a>
+
 
 
 ### Installation Instructions
