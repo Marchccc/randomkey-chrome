@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Marchccc/randomkey-chrome/blob/master/icon128.png" width="75" height="75"/>
+  <img src="https://github.com/Marchccc/randomkey-chrome/blob/main/icon128.png" width="75" height="75"/>
 </p>
 
 <h1 align="center">Randomkey</h1>
