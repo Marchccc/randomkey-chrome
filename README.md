@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Marchccc/randomkey-chrome/blob/master/icon128.png" width="75" height="75"/>
+</p>
+
 <h1 align="center">Randomkey</h1>
 
 *Randomkey is a web browser extension to help generates a random password and stores it in a table.*
